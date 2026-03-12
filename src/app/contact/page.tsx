@@ -8,7 +8,7 @@ const ContactPage = () => {
             Contact Us
           </h1>
           <p className="text-gray-400 mt-4">
-            Have questions about our music courses or webinars? We'd love to
+            Have questions about our music courses or webinars? We love to
             hear from you.
           </p>
         </div>
