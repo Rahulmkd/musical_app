@@ -51,23 +51,6 @@ A modern music learning platform built with **Next.js**, **TypeScript**, and **T
 
 ---
 
-## Project Structure
-
-musical_app/
-├─ public/ # Static assets like images, icons
-├─ src/
-│ ├─ components/ # Reusable UI components
-│ ├─ pages/ # Next.js pages
-│ ├─ styles/ # Global and component styles
-│ ├─ utils/ # Utility functions
-│ └─ hooks/ # Custom React hooks
-├─ .gitignore
-├─ package.json
-├─ tsconfig.json
-└─ README.md
-
-
----
 
 ## Getting Started
 
@@ -77,12 +60,6 @@ git clone https://github.com/username/musical_app.git
 cd musical_app
 2️⃣ Install dependencies
 npm install
-# or
-yarn install
-3️⃣ Run the development server
-npm run dev
-# or
-yarn dev
 
 Open http://localhost:3000
  to view in your browser.

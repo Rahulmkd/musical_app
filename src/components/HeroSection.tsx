@@ -16,19 +16,19 @@ const HeroSection = () => {
           Master the art of music.....
         </h1>
 
-        <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
+        <p className="mt-8 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Mastering the art of music requires passion, patience, and constant
           practice. Through dedication, music becomes a powerful way to express
           emotions and creativity. 🎶
         </p>
 
-        <div className="mt-4">
-          <Link href="/service">
+        <div className="mt-8">
+          <Link href="/services">
             <Button
               borderRadius="1.75rem"
-              className="bg-white dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-slate-800"
+              className="bg-white dark:bg-slate-900 text-black font-semibold dark:text-white border-neutral-200 dark:border-slate-800 cursor-pointer hover:bg-slate-700 hover:text-slate-200 transition duration-200"
             >
-              Explore Services
+              Explore More
             </Button>
           </Link>
         </div>
